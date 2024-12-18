@@ -1,0 +1,54 @@
+.diva{
+    display: flex;
+   gap: 32px;
+ margin-right: 1cm; 
+ border: solid 3px rgb(22, 22, 22); 
+ width: fit-content;
+ padding: 5px;
+padding-bottom:50px ;
+background: #cf8ce59c;
+}
+.add:hover{
+
+    background-color: black;
+  
+}
+.add{
+width: 120px;
+height: 25px;
+background: #4b086ca4;
+ border-radius:25px; 
+ text-align: center;
+ border: solid 2px  white;
+ color: aliceblue;
+ text-align: center;
+}
+pre{
+    font-weight: 900;
+    font-size: 14px;
+     margin-bottom:0px ;
+}
+.price{
+    font-size: 14px;
+    margin-bottom: 20px;
+ margin-top: 0px; 
+  
+
+}
+.orginal-price{
+    text-decoration: line-through;
+}
+.discount-price{
+     font-weight: 900;
+     color: black;
+}
+.discount{
+   border: 1px solid gray;
+   padding: 2px 5px;
+   font-size: 14px;
+   color: gray;
+}
+.back {
+    font-size: 25px;
+    font-weight: 700;
+}
